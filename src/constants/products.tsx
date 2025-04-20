@@ -1,13 +1,3 @@
-import sidefolioAceternity from "public/images/appDevTree.png";
-import sidefolioAceternity2 from "public//images/appDevTree.png";
-import sidefolioAlgochurn from "public/images/appRepart.png";
-import sidefolioAlgochurn2 from "public/images/appRepart2.png";
-import sidefolioMoonbeam from "public/images/pinteres.png";
-import sidefolioMoonbeam2 from "public/images/pinteres.png";
-import sidefolioAppRestaurant from "public/images/appRestourant.png";
-import sidefolioMayah from "public/images/mayah.png";
-import sidefolioMayah2 from "public/images/mayah2.png";
-
 
 
 export const products = [
@@ -16,8 +6,8 @@ export const products = [
     title: "AppDevtree",
     description:
       "All your Social Networks in your link",
-    thumbnail: sidefolioAceternity,
-    images: [sidefolioAceternity, sidefolioAceternity2],
+    thumbnail: "public/images/appDevTree.png",
+    images: ["public/images/appDevTree.png", "public//images/appDevTree.png"],
     stack: ["Nextjs", "Tailwindcss", "Express", "TypeScript"],
     slug: "aceternity",
     content: (
@@ -34,8 +24,8 @@ export const products = [
     title: "AppRepart",
     description:
       "AppRepart is the perfect solution for water delivery drivers..",
-    thumbnail: sidefolioAlgochurn,
-    images: [sidefolioAlgochurn, sidefolioAlgochurn2],
+    thumbnail: "public/images/appRepart.png",
+    images: ["public/images/appRepart.png", "public/images/appRepart2.png"],
     stack: ["React.Js", "Tailwindcss", "C#"],
     slug: "algochurn",
     content: (
@@ -65,8 +55,8 @@ AppRepart is the perfect solution for water delivery drivers, designed to simpli
     title: "CopyPinterest",
     description:
       "I made a Pinterest Copy to learn the android flow and its structure.",
-    thumbnail: sidefolioMoonbeam,
-    images: [sidefolioMoonbeam, sidefolioMoonbeam2],
+    thumbnail: "public/images/pinteres.png",
+    images: ["public/images/pinteres.png", "public/images/pinteres.png"],
     stack: ["java", "FireBase", "Android"],
     slug: "moonbeam",
     content: (
@@ -83,8 +73,8 @@ AppRepart is the perfect solution for water delivery drivers, designed to simpli
     title: "App Restaurant Bar",
     description:
       "I made a App Restaurant Bar.",
-    thumbnail: sidefolioAppRestaurant,
-    images: [sidefolioAppRestaurant, sidefolioAppRestaurant],
+    thumbnail: "public/images/appRestourant.png",
+    images: ["public/images/appRestourant.png", "public/images/appRestourant.png"],
     stack: ["java", "FireBase", "Android", "Kotlin"],
     slug: "rastaurent",
     content: (
@@ -101,8 +91,8 @@ AppRepart is the perfect solution for water delivery drivers, designed to simpli
     title: "Mayah",
     description:
       "Hassle-free ordering. Real-time pricing. Smart and easy management..",
-    thumbnail: sidefolioMayah,
-    images: [sidefolioMayah, sidefolioMayah2],
+    thumbnail: "public/images/mayah.png",
+    images: ["public/images/mayah.png", "public/images/mayah2.png"],
     stack: ["java", "API", "Retrofit"],
     slug: "mayah",
     content: (
