@@ -6,8 +6,8 @@ export const products = [
     title: "AppDevtree",
     description:
       "All your Social Networks in your link",
-    thumbnail: "public/images/appDevTree.png",
-    images: ["public/images/appDevTree.png", "public//images/appDevTree.png"],
+    thumbnail: "/images/appDevTree.png",
+    images: ["/images/appDevTree.png", "//images/appDevTree.png"],
     stack: ["Nextjs", "Tailwindcss", "Express", "TypeScript"],
     slug: "aceternity",
     content: (
@@ -24,8 +24,8 @@ export const products = [
     title: "AppRepart",
     description:
       "AppRepart is the perfect solution for water delivery drivers..",
-    thumbnail: "public/images/appRepart.png",
-    images: ["public/images/appRepart.png", "public/images/appRepart2.png"],
+    thumbnail: "/images/appRepart.png",
+    images: ["/images/appRepart.png", "/images/appRepart2.png"],
     stack: ["React.Js", "Tailwindcss", "C#"],
     slug: "algochurn",
     content: (
@@ -55,8 +55,8 @@ AppRepart is the perfect solution for water delivery drivers, designed to simpli
     title: "CopyPinterest",
     description:
       "I made a Pinterest Copy to learn the android flow and its structure.",
-    thumbnail: "public/images/pinteres.png",
-    images: ["public/images/pinteres.png", "public/images/pinteres.png"],
+    thumbnail: "/images/pinteres.png",
+    images: ["/images/pinteres.png", "/images/pinteres.png"],
     stack: ["java", "FireBase", "Android"],
     slug: "moonbeam",
     content: (
@@ -73,8 +73,8 @@ AppRepart is the perfect solution for water delivery drivers, designed to simpli
     title: "App Restaurant Bar",
     description:
       "I made a App Restaurant Bar.",
-    thumbnail: "public/images/appRestourant.png",
-    images: ["public/images/appRestourant.png", "public/images/appRestourant.png"],
+    thumbnail: "/images/appRestourant.png",
+    images: ["/images/appRestourant.png", "/images/appRestourant.png"],
     stack: ["java", "FireBase", "Android", "Kotlin"],
     slug: "rastaurent",
     content: (
@@ -91,8 +91,8 @@ AppRepart is the perfect solution for water delivery drivers, designed to simpli
     title: "Mayah",
     description:
       "Hassle-free ordering. Real-time pricing. Smart and easy management..",
-    thumbnail: "public/images/mayah.png",
-    images: ["public/images/mayah.png", "public/images/mayah2.png"],
+    thumbnail: "/images/mayah.png",
+    images: ["/images/mayah.png", "/images/mayah2.png"],
     stack: ["java", "API", "Retrofit"],
     slug: "mayah",
     content: (
