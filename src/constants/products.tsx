@@ -7,7 +7,7 @@ export const products = [
     description:
       "All your Social Networks in your link",
     thumbnail: "/images/appDevTree.png",
-    images: ["/images/appDevTree.png", "//images/appDevTree.png"],
+    images: ["/images/appDevTree.png", "/images/appDevTree.png"],
     stack: ["Nextjs", "Tailwindcss", "Express", "TypeScript"],
     slug: "aceternity",
     content: (

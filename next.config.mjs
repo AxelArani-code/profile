@@ -5,6 +5,7 @@ import rehypePrism from "@mapbox/rehype-prism";
 
 const nextConfig = {
   images: {
+    unoptimized: true,
     domains: ["images.unsplash.com", "res.cloudinary.com", "i.pinimg.com","media.licdn.com"],
   },
   experimental: {
